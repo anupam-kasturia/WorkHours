@@ -1,0 +1,37 @@
+WorkHours.com 
+
+website to have many see how many hours i spend working per day actually 
+in a remote job. 
+
+requirements 
+1) timer button 
+2) timer calculator 
+
+design 
+i can have both of them side by side.
+
+creating the timer button 
+
+the button should have two states 
+1) on state  it displays start
+2) off state it display stop 
+
+we can take care of it using variable or something , right.. 
+
+intially when the page loads button is at start 
+and on each click, it would change it's position 
+
+
+
+so the div with class heading is the heading div 
+which should display the center heading of the page. 
+
+now below this div , we have two divs 
+
+one div containing button let's say div1
+
+one  div with timer class let's say div2
+
+now these div1 and div2 must come in parallel after some spacing from the heading 
+div .. 
+so make these changes and everything should have proper margin and padding.
